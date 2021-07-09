@@ -1,0 +1,10 @@
+﻿body {
+    background: #e2d29f; /*  это цвет фона */
+    color: #152c3f; /*  это цвет шрифта */
+    font-size: 32px; /*  это размер шрифта */
+    background: url(img/image-castle-web.jpg);
+}
+
+.page {
+    background: url(img/image-castle-web.jpg) no-repeat;
+}
